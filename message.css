@@ -1,0 +1,10 @@
+h1#heading{
+  font-family: 'Roboto', sans-serif;
+  color: rgb(95,166,193)
+}
+
+h5#title{
+  font-family: 'Slabo 27px', serif;
+  color: rgb(157, 137, 159);
+  font-weight: bold;
+}
